@@ -21,5 +21,4 @@ function stopRandomColor() {
   btnStart.removeAttribute("disabled");
   btnStop.setAttribute("disabled", "disabled");
   clearInterval(timerId);
-  console.log("dsgsdg");
 }
